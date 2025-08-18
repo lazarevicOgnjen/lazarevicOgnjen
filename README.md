@@ -15,6 +15,19 @@
 
 <table>
   <tr>
+    <th>GITHUB AUTO COMMIT</th>
+  </tr>
+  <tr>
+    <td>
+      [git-auto-commit-action](https://github.com/lazarevicOgnjen/git-auto-commit-action)
+    </td>
+  </tr>
+</table>
+
+<br><br>
+
+<table>
+  <tr>
     <th>ELFAK BOT</th>
   </tr>
   <tr>
@@ -59,19 +72,6 @@
   <tr>
     <td>
       [dmat](https://github.com/lazarevicOgnjen/dmat)
-    </td>
-  </tr>
-</table>
-
-<br><br>
-
-<table>
-  <tr>
-    <th>GITHUB COMMIT CHANGES</th>
-  </tr>
-  <tr>
-    <td>
-      [git-auto-commit-action](https://github.com/lazarevicOgnjen/git-auto-commit-action)
     </td>
   </tr>
 </table>
