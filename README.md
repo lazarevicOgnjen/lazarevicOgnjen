@@ -12,13 +12,13 @@
 <br>
 
 **Serverless downloader automation**
-- [YouTube mp4 mp3 downloader](https://github.com/lazarevicOgnjen/YouTube-mp4-mp3-downloader/tree/main)
+- [YouTube mp4 mp3 downloader](https://github.com/lazarevicOgnjen/YouTube-mp4-mp3-downloader)
   
-- [Tiktok mp4 mp3 downloader](https://github.com/lazarevicOgnjen/Tiktok-mp4-mp3-downloader/tree/main)
+- [Tiktok mp4 mp3 downloader](https://github.com/lazarevicOgnjen/Tiktok-mp4-mp3-downloader)
   
-- [Instagram mp4 mp3 downloader](https://github.com/lazarevicOgnjen/Instagram-mp4-mp3-downloader/tree/main)
+- [Instagram mp4 mp3 downloader](https://github.com/lazarevicOgnjen/Instagram-mp4-mp3-downloader)
   
-- [Pinterest mp4 mp3 downloader](https://github.com/lazarevicOgnjen/Pinterest-mp4-mp3-downloader/tree/main)
+- [Pinterest mp4 mp3 downloader](https://github.com/lazarevicOgnjen/Pinterest-mp4-mp3-downloader)
 
 <br>
 
