@@ -28,4 +28,4 @@
 <br>
 
 # Elfak
-[II godina](https://github.com/lazarevicOgnjen/II-godina)
+- [II godina](https://github.com/lazarevicOgnjen/II-godina)
