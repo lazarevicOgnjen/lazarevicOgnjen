@@ -22,5 +22,10 @@
 
 <br>
 
+**Serverless cron mailer**
+- [gmail spam bot](https://github.com/lazarevicOgnjen/gmail-spam-bot)
+
+<br>
+
 # Elfak
 [II godina](https://github.com/lazarevicOgnjen/II-godina)
