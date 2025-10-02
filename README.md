@@ -1,5 +1,3 @@
-<br><br>
-
 # Projects
 
 <br>
@@ -23,5 +21,3 @@
 
 # Elfak
 [II-godina](https://github.com/lazarevicOgnjen/II-godina)
-
-<br><br>
