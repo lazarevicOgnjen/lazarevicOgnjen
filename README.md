@@ -1,18 +1,18 @@
 <br><br>
 
-# Web Scraping
-[sip](https://github.com/lazarevicOgnjen/sip) <br><br>
-[elfak-bot](https://github.com/lazarevicOgnjen/elfak-bot) 
+# Projects
 
 <br>
 
-# API
-[elfak-bot-on-off](https://github.com/lazarevicOgnjen/elfak-bot-on-off)
+**Web scraping**
+- [sip](https://github.com/lazarevicOgnjen/sip)
+
+- [elfak-bot](https://github.com/lazarevicOgnjen/elfak-bot) 
 
 <br>
 
-# Github
-[github-auto-commit](https://github.com/lazarevicOgnjen/git-auto-commit-action)
+**API**
+- [elfak-bot-on-off](https://github.com/lazarevicOgnjen/elfak-bot-on-off)
 
 <br>
 
