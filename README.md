@@ -1,7 +1,4 @@
 # Projects
-
-<br>
-
 **Web scraping**
 - [sip](https://github.com/lazarevicOgnjen/sip)
 
