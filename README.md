@@ -4,7 +4,7 @@
 
 - [elfak bot](https://github.com/lazarevicOgnjen/elfak-bot)
 
-- [test schedule](https://github.com/lazarevicOgnjen/test-schedule/tree/main)
+- [test schedule](https://github.com/lazarevicOgnjen/test-schedule)
 
 <br>
 
