@@ -2,7 +2,7 @@
 **Web scraping**
 - [sip](https://github.com/lazarevicOgnjen/sip)
 
-- [elfak bot](https://github.com/lazarevicOgnjen/elfak-bot)
+- [cs elfak](https://github.com/lazarevicOgnjen/cs-elfak)
 
 - [test schedule](https://github.com/lazarevicOgnjen/test-schedule)
 
