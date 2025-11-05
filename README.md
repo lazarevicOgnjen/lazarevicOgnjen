@@ -1,5 +1,7 @@
 # Projects
 **Web scraping**
+- [elfak bot](https://github.com/lazarevicOgnjen/elfak-bot)
+
 - [sip](https://github.com/lazarevicOgnjen/sip)
 
 - [cs elfak](https://github.com/lazarevicOgnjen/cs-elfak)
