@@ -2,9 +2,9 @@
 **Web scraping**
 - [elfak bot](https://github.com/lazarevicOgnjen/elfak-bot)
 
-- [sip + discord](https://github.com/lazarevicOgnjen/sip)
+- [sip](https://github.com/lazarevicOgnjen/sip)
 
-- [cs + discord](https://github.com/lazarevicOgnjen/cs-elfak)
+- [cs elfak](https://github.com/lazarevicOgnjen/cs-elfak)
 
 - [test schedule](https://github.com/lazarevicOgnjen/test-schedule)
 
@@ -26,8 +26,10 @@
 
 <br>
 
-**Serverless cron mailer**
+**Email**
 - [gmail spam bot](https://github.com/lazarevicOgnjen/gmail-spam-bot)
+-
+- [sip test notify](https://github.com/lazarevicOgnjen/sip_test_notify) 
 
 <br>
 
