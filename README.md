@@ -29,7 +29,7 @@
 **Email**
 - [gmail spam bot](https://github.com/lazarevicOgnjen/gmail-spam-bot)
 
-- [sip test notify](https://github.com/lazarevicOgnjen/sip-test) 
+- [sip test](https://github.com/lazarevicOgnjen/sip-test) 
 
 <br>
 
