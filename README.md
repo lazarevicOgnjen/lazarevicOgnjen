@@ -12,11 +12,6 @@
 
 <br>
 
-# Elfak
-- [**elfak notes**](https://github.com/lazarevicOgnjen/elfak-notes)
-
-<br>
-
 # Vibe coding
 
 
