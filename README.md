@@ -27,6 +27,11 @@
 
 <br>
 
+**PDF | PPTX**
+- [**Text extractor**](https://github.com/lazarevicOgnjen/text-extractor)
+
+<br>
+
 **Email**
 - [**gmail spam bot**](https://github.com/lazarevicOgnjen/gmail-spam-bot)
 
