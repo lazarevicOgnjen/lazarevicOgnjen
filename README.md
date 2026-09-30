@@ -1,6 +1,6 @@
 # Web scraping
 
-**[elfakNotifications](https://github.com/lazarevicOgnjen/elfakNotifications)**
+**[elfakNews](https://github.com/lazarevicOgnjen/elfakNews)**
 
 <br>
 
